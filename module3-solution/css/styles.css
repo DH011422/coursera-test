@@ -1,0 +1,39 @@
+
+#Top{
+	border-radius: 0;
+	background-color: #999999;
+}
+
+div.navbar-header{position: absolute;}
+
+div.navbar-header > a.navbar-brand{
+	color: #333333;
+	font-size: 36px;
+}
+
+div.collapse{
+	background-color: #e5efff;
+}
+
+div.collapse > ul.navbar-nav > li > a{
+	color: #333333;
+	background-image: url('../images/head_of_Yaakov_Chaikin.jfif');
+}
+
+
+h2{
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
+h3{
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+div.row > div{margin-bottom: 5vw;}
+
+#Chicken, #Beef, #Sushi{
+	background-color: #999999;
+	padding: 15px;
+}
